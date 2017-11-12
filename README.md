@@ -1,2 +1,5 @@
-# finding-missing-persons-using-social-media-and-amazon-rekognition
-Collection of Python and AWS Lambda scripts to find a missing person using twitter streaming data and Amazon Rekognition
+Finding Missing Persons Using Social Media And Amazon Rekognition
+
+## License
+
+This library is licensed under the Amazon Software License.
