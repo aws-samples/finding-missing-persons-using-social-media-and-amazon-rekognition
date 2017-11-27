@@ -106,20 +106,20 @@ next.]{.underline}*** The following steps outline creating a unique SSH keypair 
     c.  Click or type EC2 on search line then click on EC2 service from the menu
 
     d.  Click on Key Pairs in the NETWORK & SECURITY section near the bottom of the leftmost menu. This will display a page to manage your SSH key pairs.
-
-   ![](media/AWSKeyPair.png)
+    
+      ![](media/AWSKeyPair.png)
 
     e.  To create a new SSH key pair, click the Create Key Pair button at the top of the browser window
 
-    ![](media/SaveKP.png)
+      ![](media/SaveKP.png)
 
-    f.  In the resulting pop up window, type \[First Name\]-\[LastName\]-Rekognition into the Key Pair Name: text box and click Create.
+    f. In the resulting pop up window, type \[First Name\]-\[LastName\]-Rekognition into the Key Pair Name: text box and click Create.
 
-    ![](media/CreateKP.png)
+      ![](media/CreateKP.png)
 
-    g.  The page will download the file "\[Your-Name\]-Rekognition.pem" to the local drive. Follow the browser instructions to save the file to the default download location.
+    g. The page will download the file *"[Your-Name]-Rekognition.pem"* to the local drive. Follow the browser instructions to save the file to the default download location.
 
-    h.  Remember the full path to the file .pem file you just downloaded. You will use the Key Pair you just created to manage your EC2 instances for the rest of the lab
+    h. Remember the full path to the file .pem file you just downloaded. You will use the Key Pair you just created to manage your EC2 instances for the rest of the lab
 
 Step 2. Launch the Stack
 ========================
