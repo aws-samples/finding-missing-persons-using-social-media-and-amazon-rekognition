@@ -1,11 +1,7 @@
 
--# finding-missing-persons-using-social-media-and-amazon-rekognition
--Collection of Python and AWS Lambda scripts to find a missing person using twitter streaming data and Amazon Rekognition
-+Finding Missing Persons Using Social Media And Amazon Rekognition
-+
-+## License
-+
-+This library is licensed under the Amazon Software License.
+## License
+
+This library is licensed under the Amazon Software License.
 
 # Finding Missing Persons by Scanning Social Media with Amazon Rekognition - AWS Workshop #
 
@@ -71,32 +67,32 @@ Step 1. Pre-Workshop Setup Steps
 
     a.  Go to <https://apps.twitter.com>
 
-    ![](media/TwitterApps.png)
+     ![](media/TwitterApps.png)
 
     b.  Login if you have an account, otherwise sign up for a new
       account. Note you will need your mobile number included in your account profile to build Twitter apps.
 
-    ![](media/LoginTwitter.png)
+     ![](media/LoginTwitter.png)
 
     c. Select Create New App
 
-    ![](media/CreateTwitterApp.png)
+     ![](media/CreateTwitterApp.png)
 
     d. Provide a unique name such as FindMissingPersonsRekognitions & add your initials etc
 
-    ![](media/AppDetails.png)
+     ![](media/AppDetails.png)
 
     e.  Next you will get the details from your new app. Key data points to collect are consumer key/api highlighted by the red arrow below.
 
-    ![](media/AppDetails2.png)
+     ![](media/AppDetails2.png)
 
     f. Click on the Key & Access tokens
 
-    ![](media/AppDetails3.png)
+     ![](media/AppDetails3.png)
 
     g. To generate tokens -- click on the create my access token then capture the details such as shown in the screen below
 
-    ![](media/AppDetails4.png)
+     ![](media/AppDetails4.png)
 
     h. Capture your API Key & Secret and Access Token and Secret for later use in Notepad or text editor
 
