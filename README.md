@@ -46,7 +46,7 @@ Analytics application. You can customize the Amazon Kinesis Analytics applicatio
     provisioning resources. [Sign up for
     AWS](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html).
 
-2.  **Twitter Developer account and create a Twitter application with keys and tokens** <https://apps.twitter.com>
+2.  Twitter Developer account and create a Twitter application with keys and tokens <https://apps.twitter.com> **IMPORTANT: Twitter has since changed the process of obtaining a developer account. You may experience issues using Twitter in this example.**
 
 3.  **Reference Missing Person Image:** You will need a reference image for the simulated missing person for Rekognition to compare against.This should be in jpg format.
 
