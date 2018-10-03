@@ -48,7 +48,7 @@ Analytics application. You can customize the Amazon Kinesis Analytics applicatio
 
 2.  Twitter Developer account and create a Twitter application with keys and tokens <https://apps.twitter.com> 
 ```diff
-IMPORTANT: Twitter has since changed the process of obtaining a developer account. 
+- IMPORTANT: Twitter has since changed the process of obtaining a developer account. 
 You may experience issues using Twitter in this example.
 ```
 
